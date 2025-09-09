@@ -1,0 +1,6 @@
+notebook
+yfinance
+pandas
+matplotlib
+seaborn
+statsmodels
